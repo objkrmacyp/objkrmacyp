@@ -1,7 +1,7 @@
 IPlist = {
   "89.252.161.146",
   "89.252.161.145",
-  "89.252.161.1444"   --SUNUCU IPLERİ BURAYA
+  "89.252.161.144"   --SUNUCU IPLERİ BURAYA
 }
 oneat = nil
 function Magic(res)
